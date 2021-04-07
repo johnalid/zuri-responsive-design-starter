@@ -345,3 +345,8 @@ div.footer h6 {
     font-size: 1rem;
     padding-top: 6rem;
 }
+
+.footer h6 {
+    background-color: red;
+    color: black;
+}
