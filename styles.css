@@ -349,4 +349,5 @@ div.footer h6 {
 .footer h6 {
     background-color: red;
     color: black;
+    padding: 10px;
 }
